@@ -63,10 +63,9 @@ h2 {
   text-transform: uppercase;
   line-height: 1.17;
   letter-spacing: 0.03em;
-}
-.logo-part-1 {
   color: #4d5ae5;
 }
+
 .logo-part-2 {
   color: #2e2f42;
 }
@@ -81,9 +80,11 @@ h2 {
 }
 .address .address-mail:hover {
   color: #404bbf;
+  font-style: normal;
 }
 .address .address-mail:focus {
   color: #404bbf;
+  font-style: normal;
 }
 /* Address BİTTİ */
 /* Bütün Paragraflar */
