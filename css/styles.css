@@ -96,7 +96,7 @@ p {
 /* Footer Logo */
 .footer-logo {
   text-decoration: none;
-  font-size: 400;
+
   font-size: 12px;
   font-weight: 400;
   letter-spacing: 4%;
@@ -113,3 +113,65 @@ p {
   color: #ffffff;
 }
 /* Footer Logo BİTTİ */
+/* Out TEAM */
+.mark {
+  border: 1px;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 6px;
+}
+.tom {
+  border: 1px;
+  margin: 24px;
+  padding: 1x;
+  display: inline-block;
+  background-color: #ffffff;
+  border-radius: 6px;
+  text-align: center;
+}
+.camila {
+  border: 1px;
+  background-color: #ffffff;
+  margin: px;
+  padding: 0x;
+  display: inline-block;
+  text-align: center;
+  border-radius: 6px;
+}
+.daniel {
+  border: 1px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  margin: 24px;
+  padding: 0x;
+  display: inline-block;
+  text-align: center;
+}
+.our-team {
+  border: 2px #ccc;
+  background-color: #f4f4fd;
+}
+/* Our TEAM BİTTİ */
+/* Our Portfolio */
+.kısım-bir ul {
+  margin: 0px;
+  padding: 0px;
+  border-radius: 6px;
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  text-align: center;
+}
+.kısım-iki ul {
+  margin: 0px;
+  padding: 0px;
+  border-radius: 6px;
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  text-align: center;
+}
+/* Our Portfolio BİTTİ */
