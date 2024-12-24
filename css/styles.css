@@ -33,10 +33,16 @@ h2 {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: white;
   cursor: pointer;
+}
+.section-button:hover {
+  color: #404bbf;
+}
+.section-button:focus {
+  color: #404bbf;
 }
 /* H1 ve Buton BİTTİ */
 /* Bütün Linkler */
@@ -100,6 +106,20 @@ p {
   color: #8e8f99;
 }
 /* Bütün Paragraflar BİTTİ */
+/* Section second part */
+.second .second-part .second-part-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.second .second-part .second-part-paragraf {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 /* Footer */
 .footer {
   background-color: #434455;
@@ -129,45 +149,32 @@ p {
 }
 /* Footer Logo BİTTİ */
 /* Out TEAM */
-.mark {
-  border: 1px;
-  margin: 0;
-  padding: 0;
-  display: inline-block;
-  text-align: center;
-  background-color: #ffffff;
-  border-radius: 6px;
-}
-.tom {
-  border: 1px;
-  margin: 24px;
-  padding: 1x;
-  display: inline-block;
-  background-color: #ffffff;
-  border-radius: 6px;
-  text-align: center;
-}
-.camila {
-  border: 1px;
-  background-color: #ffffff;
-  margin: px;
-  padding: 0x;
-  display: inline-block;
-  text-align: center;
-  border-radius: 6px;
-}
-.daniel {
-  border: 1px;
-  background-color: #ffffff;
-  border-radius: 6px;
-  margin: 24px;
-  padding: 0x;
-  display: inline-block;
-  text-align: center;
-}
 .our-team {
-  border: 2px #ccc;
   background-color: #f4f4fd;
+}
+.our-team .our-team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.our-team .our-team-photo {
+  background-color: #ffffff;
+}
+.our-team .our-team-photo .our-team-photo-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.our-team .our-team-photo .our-team-photo-paragraf {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 /* Our TEAM BİTTİ */
 /* Our Portfolio */
