@@ -39,10 +39,10 @@ h2 {
   cursor: pointer;
 }
 .section-button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .section-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /* H1 ve Buton BİTTİ */
 /* Bütün Linkler */
