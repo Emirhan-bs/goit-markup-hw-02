@@ -13,53 +13,6 @@ h2 {
   font-family: "roboto", sans-serif;
   font-weight: 400;
 }
-.all-header {
-  position: relative;
-  border: 1px solid none;
-}
-.all-header .all-header-container,
-.header {
-  box-sizing: border-box;
-  display: flex;
-  gap: 24px;
-  align-items: stretch;
-  flex-direction: row;
-}
-.header-all {
-  border: none;
-  display: inline-block;
-  position: relative;
-  padding: 0px;
-  margin-left: auto;
-}
-.all-header .all-header-logo {
-  border: 1px solid none;
-  margin-left: auto;
-  margin-top: 24px;
-  display: inline-block;
-}
-.all-header .header-one {
-  border: 1px solid none;
-  display: inline-block;
-  margin-left: auto;
-  margin-bottom: 0%;
-  position: relative;
-}
-.address {
-  display: inherit;
-  border: none;
-  position: relative;
-  margin: auto;
-  padding: 0%;
-}
-.address .mail {
-  display: inline-block;
-  margin-left: 0%;
-}
-.address .phone {
-  display: inline-block;
-  margin-left: 0%;
-}
 
 /* Bütün Gövde Bitti */
 /* H1 ve Buton */
