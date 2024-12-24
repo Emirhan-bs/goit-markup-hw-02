@@ -71,6 +71,9 @@ h2 {
 }
 /* Header Logo BİTTİ */
 /* Address */
+.address {
+  font-style: normal;
+}
 .address .address-mail {
   font-style: normal;
   font-size: 16px;
@@ -184,6 +187,6 @@ p {
   display: flex;
   gap: 12px;
   list-style: none;
-  text-align: center;
+  text-align: left;
 }
 /* Our Portfolio BİTTİ */
