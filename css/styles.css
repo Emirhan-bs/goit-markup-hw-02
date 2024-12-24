@@ -145,31 +145,29 @@ p {
 }
 /* Footer */
 .footer {
-  background-color: #434455;
+  background-color: #2e2f42;
 }
-.footer > p {
-  color: #ffffff;
-}
-/* Footer BİTTİ */
-/* Footer Logo */
-.footer-logo {
-  text-decoration: none;
 
-  font-size: 12px;
-  font-weight: 400;
-  letter-spacing: 4%;
-  line-height: 1.33;
-  color: #ffffff;
+/* Footer BİTTİ */
+.footer .footer-logo {
   font-family: "Raleway", sans-serif;
-}
-.footer-logo::before {
-  content: "WEB";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #4d5ae5;
 }
-.footer-logo::after {
-  content: "STUDIO";
-  color: #ffffff;
+.footer .footer-logo .footer-logo-studio {
+  color: #2e2f42;
 }
+.footer .footer-paragraf {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+/* Footer Logo */
+
 /* Footer Logo BİTTİ */
 /* Out TEAM */
 .our-team {
